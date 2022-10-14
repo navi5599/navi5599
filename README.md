@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my Name is Ivan Kelava</h1>
-<h3 align="center">A passionate full-stack developer from Croatia</h3>
+<h3 align="center">A passionate full-stack developer from Croatia, based in Germany</h3>
 
 - 🌱 I’m currently learning **Angular**
 
