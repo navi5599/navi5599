@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 You can find all my projects here -> [UPDATE](UPDATE)
+- 👨‍💻 You can find all my projects here -> [My Portfolio](https://kelavaivan.com)
 
 - 💬 Ask me about **anything dev!**
 
