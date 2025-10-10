@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my Name is Ivan Kelava</h1>
 <h3 align="center">A passionate full-stack developer from Croatia</h3>
 
-- 🌱 I’m currently learning **NextJS 13**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 You can find all my projects here -> [My Portfolio](https://kelavaivan.com)
 
